@@ -3,9 +3,9 @@ A collaborative guide designed to help students master their learning and boost 
 
 --
 A collaborative guide by ;
--
--
--
+-JOE MAINA
+-PHINEAS
+-JOSEPHINE
 ## Table of Contents
 - [Introduction](#introduction)
 - [Time management](#time-management)

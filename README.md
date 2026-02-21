@@ -11,7 +11,8 @@ A collaborative guide by ;
 - [Time management](#time-management)
 - [Digital Tools](#digital-tools)
 - [Active learning techniques](#active-learning-techniques)
-
+- [Plan and Priotize](#plan-and-priotize)
+  
 ## Introduction
 This repository is a curated collection of the most effective study strategies. Whether you're preparing for finals or learning a new skill, these techniques are designed to help you retain information faster and stay organized.
 

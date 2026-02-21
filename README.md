@@ -23,7 +23,7 @@ Time management is the ability to plan and control how you use your time. For st
 
 ⸻
 
-Importance of Time Management
+**Importance of Time Management**
 	•	Improves academic performance by ensuring all subjects are studied.
 	•	Reduces stress by avoiding last-minute cramming.
 	•	Increases productivity by focusing on important tasks.
@@ -31,7 +31,7 @@ Importance of Time Management
 
 ⸻
 
-Key Time Management Techniques
+**Key Time Management Techniques**
 	1.	Study Schedule: Plan what to study and when.
 	2.	Pomodoro Technique: Study for 25 minutes, break for 5 minutes.
 	3.	Prioritizing Tasks: Focus first on urgent and difficult work.

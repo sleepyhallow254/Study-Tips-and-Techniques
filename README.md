@@ -16,8 +16,33 @@ A collaborative guide by ;
 ## Introduction
 This repository is a curated collection of the most effective study strategies. Whether you're preparing for finals or learning a new skill, these techniques are designed to help you retain information faster and stay organized.
 
-## Time management
-<!-- [Team Member 1 Name] will write this section -->
+##⏰ Time management
+Introduction
+
+Time management is the ability to plan and control how you use your time. For students, it helps balance studying, homework, exams, and personal activities effectively.
+
+⸻
+
+Importance of Time Management
+	•	Improves academic performance by ensuring all subjects are studied.
+	•	Reduces stress by avoiding last-minute cramming.
+	•	Increases productivity by focusing on important tasks.
+	•	Builds discipline and responsibility for future life.
+
+⸻
+
+Key Time Management Techniques
+	1.	Study Schedule: Plan what to study and when.
+	2.	Pomodoro Technique: Study for 25 minutes, break for 5 minutes.
+	3.	Prioritizing Tasks: Focus first on urgent and difficult work.
+	4.	Breaking Tasks: Divide big topics into small steps.
+	5.	Avoiding Procrastination: Reduce distractions and start early.
+
+⸻
+
+Conclusion
+
+Time management helps students use their time wisely, learn effectively, and reduce stress. Practicing good time management leads to better grades and lifelong success
 
 ## Digital tools
 <!-- [Team Member 2 Name] will write this section -->

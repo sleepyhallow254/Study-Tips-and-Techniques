@@ -46,6 +46,82 @@ Time management helps students use their time wisely, learn effectively, and red
 
 ## Digital tools
 <!-- [Team Member 2 Name] will write this section -->
+Digital learning tools are software applications, platforms, or online resources that support teaching, studying, collaboration, organization, and skill development through technology. They help learners access information, manage their time, improve retention, and connect with others in a digital environment.
+
+---
+
+### Importance of Digital Learning Tools
+
+- **Improves Organization**  
+  Helps students plan tasks, store notes, and track deadlines efficiently.
+
+- **Enhances Collaboration**  
+  Enables real-time teamwork, file sharing, and communication in group projects.
+
+- **Boosts Retention**  
+  Supports active recall and spaced repetition techniques for long-term memory.
+
+- **Increases Productivity**  
+  Reduces distractions and structures study time effectively.
+
+- **Expands Access to Knowledge**  
+  Provides learning materials from global institutions and experts.
+
+---
+
+### Types of Digital Learning Tools
+
+#### 1. Note-Taking & Organization Tools
+
+*Examples:*
+- Notion  
+- Evernote  
+- Google Keep  
+
+---
+
+#### 2. Spaced Repetition & Study Tools
+
+*Examples:*
+- Anki  
+- Quizlet  
+
+---
+
+#### 3. Collaboration & Writing Tools
+
+*Examples:*
+- Google Docs  
+- Microsoft Word Online  
+- Grammarly  
+
+---
+
+#### 4. Time Management & Focus Tools
+
+*Examples:*
+- Forest  
+- Pomofocus  
+- Trello  
+
+---
+
+#### 5. Online Learning Platforms
+
+*Examples:*
+- Coursera  
+- Khan Academy  
+- Udemy  
+
+---
+
+> “Technology does not replace effort — it amplifies disciplined effort.”
+
+---
+
+### Conclusion
+
+Digital learning tools are powerful resources that transform how students study, collaborate, and grow academically. When used intentionally and consistently, they improve efficiency, deepen understanding, and prepare learners for a technology-driven world.
 
 ## Active learning techniques
 # 📘 Active Learning Techniques Guide

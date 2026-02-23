@@ -23,7 +23,7 @@ Time management is the ability to plan and control how you use your time. For st
 
 ⸻
 
-**Importance of Time Management:**
+###Importance of Time Management:###
 	•	Improves academic performance by ensuring all subjects are studied.
 	•	Reduces stress by avoiding last-minute cramming.
 	•	Increases productivity by focusing on important tasks.

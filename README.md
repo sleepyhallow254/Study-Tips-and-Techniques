@@ -16,7 +16,7 @@ A collaborative guide by ;
 ## Introduction
 This repository is a curated collection of the most effective study strategies. Whether you're preparing for finals or learning a new skill, these techniques are designed to help you retain information faster and stay organized.
 
-##⏰ Time management
+##TIME MANAGEMENT
 Introduction
 
 Time management is the ability to plan and control how you use your time. For students, it helps balance studying, homework, exams, and personal activities effectively.

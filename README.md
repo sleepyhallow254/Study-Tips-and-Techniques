@@ -338,45 +338,46 @@ Evening
 * Review mistakes
 
 ---
-#ORGANIZE YOUR STUDY SPACE
+
+# ORGANIZE YOUR STUDY SPACE
 
 Organizing your study space can improve focus,reduce stress and increase productivity.
 
-**Declutter first**
+## **Declutter first**
 1. Remove everything from your desk.
 2. Keep only what you use daily.
 3. Keep cables organized
 
-**Create study zone**
+## **Create study zone**
 Divide your space into small sections:
 1. Computer area-*Laptops*
 2. Reading area-*Books*
 3. Storage area-*Files*
 
-**Organize your desk**
+## **Organize your desk**
 1. Use pen holder.
 2. Keep a small notebook for quick ideas.
 3. Stack books vertically.
 
-**Improve lighting**
+## **Improve lighting**
 1. Study near natural light.
 2. Avoid very dim light.(Causes eye strain)
 
-**Make it comfortable**
+## **Make it comfortable**
 1. Use a comfortable chair.
 2. Keep your screen at eye level.
 3. Keep your back straight.
 
-**Add motivation**
+## **Add motivation**
 1. Put a motivation quote on the wall near your desk.
 2. Keep your goals written where you can see them.
 
-**Keep it clean**
+## **Keep it clean**
 1. Wipe your desk.
 2. Prepare materials for tomorrow.
 3. Arrange your books.
 
-**Organize digital space**
+## **Organize digital space**
 1. Create folders for each language.
 2. Name files properly-*index.html*.
 3. Delete unused files.

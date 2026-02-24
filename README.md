@@ -219,9 +219,9 @@ Digital learning tools are powerful resources that transform how students study,
 
 ## Plan and Prioritize
 
-# PART 1: *PRIORITIZE WHAT TO STUDY*
+# PART 1: PRIORITIZE WHAT TO STUDY
 
-## 1️ Start With the Most Important Topics First
+## 1️. Start With the Most Important Topics First
 
 Focus on:
 
@@ -232,14 +232,14 @@ Focus on:
 
 ---
 
-## 2️ Use the 80/20 Rule
+## 2️. Use the 80/20 Rule
 
 * 20% of topics often produce 80% of exam questions.
 * Identify those and master them first.
 
 ---
 
-## 3️ Categorize Topics by Difficulty
+## 3️. Categorize Topics by Difficulty
 
 Divide into:
 
@@ -249,7 +249,7 @@ Divide into:
 
 ---
 
-# PART 2: *MOST EFFECTIVE STUDY TECHNIQUES*
+# PART 2: MOST EFFECTIVE STUDY TECHNIQUES
 
 ## 1. Active Recall (Most Powerful)
 

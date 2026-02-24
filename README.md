@@ -217,7 +217,7 @@ Digital learning tools are powerful resources that transform how students study,
 
 ---
 
-## **Plan and Prioritize**
+## Plan and Prioritize
 
 # PART 1: *PRIORITIZE WHAT TO STUDY*
 
@@ -297,7 +297,7 @@ Rule:
 
 ---
 
-## ⏳ 4. Pomodoro Technique
+##  4. Pomodoro Technique
 
 * 25 min study
 * 5 min break

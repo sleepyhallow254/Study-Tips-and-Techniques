@@ -6,6 +6,7 @@ A collaborative guide by ;
 -JOE MAINA
 -PHINEAS
 -JOSEPHINE
+-Cynthia
 ## Table of Contents
 - [Introduction](#introduction)
 - [Time management](#time-management)
@@ -212,7 +213,118 @@ Digital learning tools are powerful resources that transform how students study,
 - Identify main topic
 - Add subtopics
 - Connect related concepts
+  
 
 ---
+
+## **Plan and Prioritize**
+
+# PART 1: *PRIORITIZE WHAT TO STUDY*
+
+## 1️ Start With the Most Important Topics First
+
+Focus on:
+
+* Topics that carry the **most marks**
+* Frequently tested concepts
+* Topics you find most difficult
+* Core foundational chapters 
+
+---
+
+## 2️ Use the 80/20 Rule
+
+* 20% of topics often produce 80% of exam questions.
+* Identify those and master them first.
+
+---
+
+## 3️ Categorize Topics by Difficulty
+
+Divide into:
+
+*  Easy – Quick revision
+*  Moderate – Practice needed
+*  Difficult – Deep focus sessions
+
+---
+
+# PART 2: *MOST EFFECTIVE STUDY TECHNIQUES*
+
+## 1. Active Recall (Most Powerful)
+
+Instead of rereading:
+
+* Close the book
+* Write what you remember
+* Explain out loud
+* Test yourself
+
+Example:
+After reading a chapter, ask:
+
+* What are the 5 main points?
+* Can I teach this in 2 minutes?
+
+---
+
+## 2. Spaced Repetition
+
+Revise like this:
+
+* Day 1 → Learn
+* Day 3 → Revise
+* Day 7 → Revise
+* Day 14 → Revise
+* Before exam → Final review
+
+This prevents forgetting.
+
+---
+
+## 3. Practice Questions Daily
+
+Especially for:
+
+* Math
+* Physics
+* Accounting
+* Competitive exams
+
+Rule:
+
+> 40% learning + 60% practice
+
+---
+
+## ⏳ 4. Pomodoro Technique
+
+* 25 min study
+* 5 min break
+* After 4 cycles → 20–30 min break
+
+Helps avoid burnout.
+
+---
+
+# SAMPLE DAILY STUDY STRUCTURE
+
+Morning (High Focus Time)
+
+* Difficult topic (90 min)
+* Practice problems (45 min)
+
+Afternoon
+
+* Moderate topic (60 min)
+* Active recall revision (30 min)
+
+Evening
+
+* Light revision (flashcards)
+* Review mistakes
+
+---
+
 
 #

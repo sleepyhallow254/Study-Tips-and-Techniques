@@ -218,6 +218,7 @@ Digital learning tools are powerful resources that transform how students study,
 ---
 
 ## Plan and Prioritize
+Planning helps you to create productivity and it also creates a clear roadmap, while prioritizing helps you focus at the task at hand.
 
 # PART 1: PRIORITIZE WHAT TO STUDY
 
@@ -321,7 +322,7 @@ Afternoon
 
 Evening
 
-* Light revision (flashcards)
+* Light revision 
 * Review mistakes
 
 ---
